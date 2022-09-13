@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente eu trabalho como Desenvolvedor de Software Full-Stack em uma empresa de automação de postos de combustível.
-- 🌱 Estou me especializando Desenvolvimento Full-stack em geral, com maior foco em Python e JavaScript. Também estou me aventurando em uns projetos utilizando flutter e dart para desenvolvimento mobile 😄. 
+- 🌱 Estou me especializando Desenvolvimento Full-stack em geral, com maior foco em Python e JavaScript. Também estou me aventurando em alguns projetos utilizando flutter e dart para desenvolvimento mobile 😄. 
 - 📫 Me contate no email: arthurabreu2000@gmail.com 
  
 <div align="center">
