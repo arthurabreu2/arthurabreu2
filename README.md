@@ -17,15 +17,6 @@ customers.
 
 ---
 
-## 🏆 Career Highlights
-
-- ✅ **Scalable APIs:** Designed APIs serving thousands of users with zero downtime.  
-- ✅ **Data-Driven Dashboards:** Reduced data processing times by 70%/90% with advanced analytics tools.  
-- ✅ **Workflow Automation:** Automated key business processes, cutting manual efforts by 40%.  
-- ✅ **User Experience:** Delivered seamless UIs, improving user satisfaction and product engagement.  
-
----
-
 ## ⚡ Tech Stack
 
 
@@ -104,6 +95,16 @@ customers.
 
 
 ---
+
+## 🏆 Career Highlights
+
+- ✅ **Scalable APIs:** Designed APIs serving thousands of users with zero downtime.  
+- ✅ **Data-Driven Dashboards:** Reduced data processing times by 70%/90% with advanced analytics tools.  
+- ✅ **Workflow Automation:** Automated key business processes, cutting manual efforts by 40%.  
+- ✅ **User Experience:** Delivered seamless UIs, improving user satisfaction and product engagement.  
+
+---
+
 
 
 ### **Code Principles & Testing**
