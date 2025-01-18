@@ -139,15 +139,6 @@ customers.
 - 🔍 Exploring new ways to integrate AI into full-stack development.  
 
 
-## 📊 GitHub Stats:
-
-
-<br/>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arthurabreu2&theme=react&hide_border=false)
-
-
 <br/>
 
 
