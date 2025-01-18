@@ -1,7 +1,7 @@
 # 💻 Arthur | Full-Stack Python Engineer | Backend Specialist
 
 Hi there! 👋  
-I’m **Arthur**, a passionate software engineer with over **6 years of experience** crafting robust, scalable solutions that solve real-world problems. My focus is on creating impactful systems by merging backend mastery with seamless user experiences.
+I’m **Arthur**, a passionate software engineer with over **5 years of experience** crafting robust, scalable solutions that solve real-world problems. My focus is on creating impactful systems by merging backend mastery with seamless user experiences.
 
 ---
 
@@ -69,13 +69,12 @@ I’m **Arthur**, a passionate software engineer with over **6 years of experien
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+
 
 ---
 
@@ -146,4 +145,4 @@ I’m **Arthur**, a passionate software engineer with over **6 years of experien
 
 ---
 
-✨ _“Code is not just code—it’s the bridge to innovation, impact, and growth."_  
+✨ _“Code is not just code. It’s the bridge to innovation, impact, and growth."_  
