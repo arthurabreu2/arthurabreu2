@@ -153,3 +153,5 @@ customers.
 ---
 
 ✨ _“Code is not just code. It’s the bridge to innovation, impact, and growth."_  
+
+<img src="https://github.com/arthurabreu2/arthurabreu2/blob/main/banner2.png" alt="Arthur Abreu | Full-stack Python Engineer" width="100%">
