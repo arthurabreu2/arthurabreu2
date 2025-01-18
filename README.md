@@ -1,7 +1,9 @@
-# 💻 Arthur Abreu | Full-Stack Python Engineer | Backend Specialist
+# 💻 Arthur Abreu | Full-stack Python Engineer | Backend Specialist | Automation & AI Enthusiast
 
 Hi there! 👋  
-I’m **Arthur**, a passionate software engineer with over **5 years of experience** crafting robust, scalable solutions that solve real-world problems. My focus is on creating impactful systems by merging backend mastery with seamless user experiences.
+I’m **Arthur**, I have a deep love for technology, for progress, and a strong passion for tackling new challenges. I have been striving to improve each day in technology-related fields, aiming to contribute at a high level to make your business stand out in the market. Count on me to help your business grow, increase its visibility,
+integrate the finest technologies, and deliver top-quality products, ensuring an incomparable experience for your
+customers.
 
 ---
 
@@ -101,16 +103,37 @@ I’m **Arthur**, a passionate software engineer with over **5 years of experien
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+---
+
+
+### **Code Principles & Testing**
+
+- 🧪 **Test-Driven Development (TDD):** I develop robust and maintainable code by following the TDD approach, ensuring that functionality is tested before implementation.
+- ✨ **Clean Code Practices:** Writing code that is readable, maintainable, and efficient, adhering to principles like SOLID and DRY.
+- 🧰 **PyTest:** Extensive experience in writing and maintaining unit and integration tests using **PyTest** to ensure high-quality deliverables.
+- 📊 **Coverage and Quality:** Leveraging tools like **Coverage.py** and **flake8** to track code coverage and enforce quality standards.
+- 🔄 **Refactoring:** Continuously improving existing codebases by refactoring, reducing technical debt, and increasing efficiency.
+- ⚡ **CI/CD Integration:** Automating testing workflows using **GitHub Actions** and other CI/CD tools for seamless deployment.
+
+---
+
+### **Soft Skills**
+
+- 🤝 **Collaboration:** Strong ability to work within diverse teams, sharing knowledge and contributing to a collaborative environment.
+- 🌟 **Mentorship:** Actively mentoring junior developers, guiding them through complex problem-solving and fostering their growth.
+- 🗣️ **Communication:** Skilled in articulating technical concepts to both technical and non-technical stakeholders, ensuring alignment on goals.
+- 🧠 **Critical Thinking:** Approaching challenges analytically to design scalable, future-proof solutions.
+- ⏳ **Time Management:** Effectively prioritizing tasks and delivering high-quality work within deadlines.
+- 🌍 **Adaptability:** Thriving in dynamic environments, quickly learning and implementing new technologies as needed.
+
 ---
           
-## 🌱 What I’m Working On
+### 🌱 What I’m Working On
 
 - 🛠️ Building intelligent tools to optimize business operations.
 - 🦾 Building my own portfolio and updating my git profile and projects.
 - 🔍 Exploring new ways to integrate AI into full-stack development.  
-
----
-
 
 
 ## 📊 GitHub Stats:
