@@ -141,6 +141,12 @@ customers.
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arthurabreu2/arthurabreu2/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/arthurabreu2/arthurabreu2/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/arthurabreu2/arthurabreu2/blob/output/github-snake-dark.svg" />
+</picture>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arthurabreu2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
