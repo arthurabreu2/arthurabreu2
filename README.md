@@ -98,7 +98,11 @@ customers.
 
 ## 🏆 Career Highlights
 
-- ✅ **Scalable APIs:** Designed APIs serving thousands of users with zero downtime.  
+- ✅ **Scalable APIs:** Designed APIs serving thousands of users with zero downtime.
+- ✅ Designed and developed APIs and frontend systems for advanced engineering simulations in the oil and gas industry.  
+- ✅ Integrated **OpenCFS** for multiphysics modeling using finite element methods.  
+- ✅ Developed interactive data analysis dashboards with **Matplotlib**, **Plotly**, and **Pandas**.  
+- ✅ Created a **SOAP API** for communication with regulatory systems.  
 - ✅ **Data-Driven Dashboards:** Reduced data processing times by 70%/90% with advanced analytics tools.  
 - ✅ **Workflow Automation:** Automated key business processes, cutting manual efforts by 40%.  
 - ✅ **User Experience:** Delivered seamless UIs, improving user satisfaction and product engagement.  
