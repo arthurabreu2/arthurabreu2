@@ -18,7 +18,7 @@ I’m **Arthur**, a passionate software engineer with over **5 years of experien
 ## 🏆 Career Highlights
 
 - ✅ **Scalable APIs:** Designed APIs serving thousands of users with zero downtime.  
-- ✅ **Data-Driven Dashboards:** Reduced data processing times by 70% with advanced analytics tools.  
+- ✅ **Data-Driven Dashboards:** Reduced data processing times by 70%/90% with advanced analytics tools.  
 - ✅ **Workflow Automation:** Automated key business processes, cutting manual efforts by 40%.  
 - ✅ **User Experience:** Delivered seamless UIs, improving user satisfaction and product engagement.  
 
@@ -115,25 +115,14 @@ I’m **Arthur**, a passionate software engineer with over **5 years of experien
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=arthurabreu2&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-
 
 <br/>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arthurabreu2&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arthurabreu2&theme=react&hide_border=false)
 
 
 <br/>
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurabreu2&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<br/>
-
-
 
 
 ## 🏆 GitHub Trophies
