@@ -8,7 +8,7 @@ I’m **Arthur**, a passionate software engineer with over **6 years of experien
 ## 🚀 About Me
 
 - 🔧 **Backend Specialist:** Crafting secure and scalable APIs using Python frameworks like **Django**, **Flask**, and **FastAPI**.  
-- 🌐 **Frontend Enthusiast:** Building responsive, user-friendly interfaces with **React**, **JavaScript**, and **CSS**.  
+- 🌐 **Frontend Enthusiast:** Building responsive, user-friendly interfaces with **React**, **JavaScript**, **TypeScript** and **CSS**.  
 - 🤖 **Automation & AI Advocate:** Streamlining workflows with **RPA tools** and **AI-driven models**, optimizing business operations.  
 - 📊 **Data Wizard:** Transforming data into actionable insights through interactive dashboards using **Django**, **Pandas**, and **Plotly**.  
 - 🛠️ **DevOps & Deployment:** Expertise in **Docker**, **CI/CD pipelines**, and **AWS** for efficient and scalable software delivery.  
