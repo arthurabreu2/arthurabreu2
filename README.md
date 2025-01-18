@@ -28,7 +28,6 @@ customers.
 
 ## ⚡ Tech Stack
 
----
 
 ### **Languages & Frameworks:**
 
