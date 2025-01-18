@@ -1,4 +1,4 @@
-# 💻 Arthur | Full-Stack Python Engineer | Backend Specialist
+# 💻 Arthur Abreu | Full-Stack Python Engineer | Backend Specialist
 
 Hi there! 👋  
 I’m **Arthur**, a passionate software engineer with over **5 years of experience** crafting robust, scalable solutions that solve real-world problems. My focus is on creating impactful systems by merging backend mastery with seamless user experiences.
@@ -24,7 +24,7 @@ I’m **Arthur**, a passionate software engineer with over **5 years of experien
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ---
 
@@ -113,7 +113,8 @@ I’m **Arthur**, a passionate software engineer with over **5 years of experien
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=arthurabreu2&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 
