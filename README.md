@@ -148,9 +148,6 @@ customers.
 </picture>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arthurabreu2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-abreu) 
